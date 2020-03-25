@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="content_todollar">Rupees to Dollars</string>
+    <string name="content_torupees">Dollars to Rupees</string>
+    <string name="convert">Convert</string>
+<!--    <string name="app_name">CurrencyConverter</string>-->
+<!--    <string name="app_name">CurrencyConverter</string>-->
+</resources>
